@@ -1,0 +1,12 @@
+{
+	"LandMines":[{
+		"ID":1,
+		"name":"Land Mine",
+		"explRadius":3.5,
+		"detRange":3,
+		"fuseTime":1,
+		"totalTime":50,
+		"primeTime":2,
+		"cooldown":0.8
+	}]
+}

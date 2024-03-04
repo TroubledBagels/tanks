@@ -1,0 +1,72 @@
+{
+	"Projectiles":[{	
+		"ID":1,
+		"name":"Bullet",
+		"velocity":6,
+		"bounces":3,
+		"explosive":false,
+		"explRadius":0,
+		"td":{
+			"trailEnabled":true,
+			"time":1
+		},
+		"passiveNoise":false,
+		"coooldown":0.5
+	}, {	
+		"ID":2,
+		"name":"Rocket",
+		"velocity":10,
+		"bounces":1,
+		"explosive":true,
+		"explRadius":3.5,
+		"td":{
+			"trailEnabled":true,
+			"time":0.3
+		},
+		"passiveNoise":true,
+		"cooldown":1.2
+	}, {
+		"ID":3,
+		"name":"Missile",
+		"velocity":7,
+		"bounces":0,
+		"explosive":true,
+		"explRadius":6,
+		"td":{
+			"trailEnabled":true,
+			"time":0.1
+		},
+		"passiveNoise":true,
+		"cooldown":-1
+	}, {
+		"ID":4,
+		"name":"EMP",
+		"velocity":8,
+		"bounces":0,
+		"explosive":true,
+		"explRadius":8,
+		"td":{
+			"trailEnabled":false,
+			"time":-1
+		},
+		"passiveNoise":false,
+		"cooldown":-1
+	}],
+	"LobShots":[{
+		"ID":1,
+		"name":"Lob Shot",
+		"velocity":{
+			"x":10,
+			"y":15
+		},
+		"bounces":0,
+		"explosive":false,
+		"explRadius":0,
+		"td":{
+			"trailEnabled":true,
+			"time":0.5
+		},
+		"passiveNoise":false,
+		"cooldown":1
+	}]
+}

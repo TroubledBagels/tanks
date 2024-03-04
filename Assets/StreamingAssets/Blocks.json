@@ -1,0 +1,23 @@
+{
+	"blocks":[{
+		"ID":1,
+		"name":"Basic Wall",
+		"height":1,
+		"destructible":false
+	},{
+		"ID":2,
+		"name":"Destructible Wall",
+		"height":1,
+		"destructible":true
+	},{
+		"ID":3,
+		"name":"Basic Tall Wall",
+		"height":5,
+		"destructible":false
+	},{
+		"ID":4,
+		"name":"Destructible Tall Wall",
+		"height":5,
+		"destructible":true
+	}]
+}

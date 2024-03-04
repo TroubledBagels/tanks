@@ -1,0 +1,581 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Full Back Up/hatto/Desktop/Tanks
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50174
+Successfully changed project path to: D:/Full Back Up/hatto/Desktop/Tanks
+D:/Full Back Up/hatto/Desktop/Tanks
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.83 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Full Back Up/hatto/Desktop/Tanks/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti with Max-Q Design (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   26.21.14.4253
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003093 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.67 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.657 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.21 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 3.224500 ms (FindLiveObjects: 0.282100 ms CreateObjectMapping: 0.071900 ms MarkObjects: 2.740400 ms  DeleteObjects: 0.127900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Player/tank1.blend
+  artifactKey: Guid(652eb89d38d74fc47a7a1d97d74ed793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/tank1.blend using Guid(652eb89d38d74fc47a7a1d97d74ed793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690267027fe63a0104f01a5e04219c9f') in 0.871370 seconds
+  Import took 0.924914 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.073401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.39 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.87 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 29.396 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.03 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.80 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.7 MB.
+System memory in use after: 171.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2702.
+Total: 36.210800 ms (FindLiveObjects: 4.046600 ms CreateObjectMapping: 1.638500 ms MarkObjects: 30.240900 ms  DeleteObjects: 0.270400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6995.102885 seconds.
+  path: Assets/Power Ups/Materials/ArmourMat.mat
+  artifactKey: Guid(fc33ee34dfc24b146b92b40de99b2bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Power Ups/Materials/ArmourMat.mat using Guid(fc33ee34dfc24b146b92b40de99b2bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb4a0b174af6cef0c1f97884a14b82b') in 2.288356 seconds
+  Import took 2.394403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006507 seconds.
+  path: Assets/Level/Basic Wall.mat
+  artifactKey: Guid(5f195312105ad874b9b0bbc1032fa29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level/Basic Wall.mat using Guid(5f195312105ad874b9b0bbc1032fa29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff801c9fd9ce13fc3cdf67915d13274') in 9.015707 seconds
+  Import took 9.138777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013602 seconds.
+  path: Assets/Ground textures pack/Grass 05/Grass pattern 05.mat
+  artifactKey: Guid(49c3c02661a83fd42b33859cfbf9a17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 05/Grass pattern 05.mat using Guid(49c3c02661a83fd42b33859cfbf9a17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930e591900ed1dcaaa8354a08a5e6f9d') in 4.897399 seconds
+  Import took 4.983296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002188 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+  artifactKey: Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat using Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb0394097166e0cf16f464516580582') in 1.118683 seconds
+  Import took 1.185251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005182 seconds.
+  path: Assets/Level/Destructible Wall Mat.mat
+  artifactKey: Guid(92f4b4fce14f84f499563a55a8008a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level/Destructible Wall Mat.mat using Guid(92f4b4fce14f84f499563a55a8008a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e528bd677719ed0c73cf2930e76ff6b1') in 0.647712 seconds
+  Import took 0.752961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002623 seconds.
+  path: Assets/Projectiles/Materials/BulletMat.mat
+  artifactKey: Guid(a0ef4e39cb4ae464eba829cbd9362d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Projectiles/Materials/BulletMat.mat using Guid(a0ef4e39cb4ae464eba829cbd9362d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4688f4b53310565da3f6c3483c6c2f') in 0.994649 seconds
+  Import took 1.060269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001515 seconds.
+  path: Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern 01.mat
+  artifactKey: Guid(893960384de673345a82517892b28bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern 01.mat using Guid(893960384de673345a82517892b28bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca0d158a2d6045e2c97db4315e7b52f') in 0.524747 seconds
+  Import took 0.594838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002191 seconds.
+  path: Assets/EffectExamples/Blood/Materials/BloodStreamParticle.mat
+  artifactKey: Guid(fb0a006be807eac48a87ffa79b3330a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Blood/Materials/BloodStreamParticle.mat using Guid(fb0a006be807eac48a87ffa79b3330a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94c560ee1240717c27b554f9f1e47e9') in 0.323464 seconds
+  Import took 0.396483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001802 seconds.
+  path: Assets/Ground textures pack/Dry ground/Dry ground pattern.mat
+  artifactKey: Guid(d805d830c4023774cb6259aca09f431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Dry ground/Dry ground pattern.mat using Guid(d805d830c4023774cb6259aca09f431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980ab86b74903848adcb9c5f863b6060') in 4.161183 seconds
+  Import took 4.215483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001945 seconds.
+  path: Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern 02.mat
+  artifactKey: Guid(020b997e4fa23c74297e208cd649319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern 02.mat using Guid(020b997e4fa23c74297e208cd649319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35e9b777712d8eb198ef3256e174f2a') in 0.497752 seconds
+  Import took 0.540304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002253 seconds.
+  path: Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat
+  artifactKey: Guid(fedc75da63b32e249bccd7450cd29351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat using Guid(fedc75da63b32e249bccd7450cd29351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2cebced3197a2bb77a85fdab1c9fb7') in 0.685858 seconds
+  Import took 0.758206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003139 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat
+  artifactKey: Guid(bd8c234372a08af408b82538314378fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat using Guid(bd8c234372a08af408b82538314378fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd4e86b055fc79734fc923139e6826f') in 0.487383 seconds
+  Import took 0.553204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002360 seconds.
+  path: Assets/EffectExamples/Shared/Fonts/Roboto-Thin.ttf
+  artifactKey: Guid(cd25d80d03a864fdd90534b28f15208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Fonts/Roboto-Thin.ttf using Guid(cd25d80d03a864fdd90534b28f15208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abecf339dc71fa2a7c0c61e01c87308c') in 0.793470 seconds
+  Import took 0.857354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002834 seconds.
+  path: Assets/Power Ups/Materials/EMPBody.mat
+  artifactKey: Guid(6f7227a721615a845b1db6fdf1a4aac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Power Ups/Materials/EMPBody.mat using Guid(6f7227a721615a845b1db6fdf1a4aac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db559ab7a4496749eacc0c3b90669aee') in 0.275290 seconds
+  Import took 0.323454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002751 seconds.
+  path: Assets/Power Ups/Materials/BulletHellMat.mat
+  artifactKey: Guid(c9917b16603c947438c18536db3b3d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Power Ups/Materials/BulletHellMat.mat using Guid(c9917b16603c947438c18536db3b3d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c305209a5afa74c10add21bbb4aecf') in 0.339714 seconds
+  Import took 0.390678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001541 seconds.
+  path: Assets/Projectiles/Materials/BulletTrailMat.mat
+  artifactKey: Guid(58827b947985c044080dd8ebd57653b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Projectiles/Materials/BulletTrailMat.mat using Guid(58827b947985c044080dd8ebd57653b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7ffa3416a0f00b02a56ca7b7154309') in 0.453234 seconds
+  Import took 0.517436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002886 seconds.
+  path: Assets/Ground textures pack/Grass 02/Grass pattern 02.mat
+  artifactKey: Guid(15654a743eccf384fb2312048db767f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 02/Grass pattern 02.mat using Guid(15654a743eccf384fb2312048db767f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd05fa6132d2e2fe2b65d60cfd530c10') in 0.737812 seconds
+  Import took 0.840312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006657 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Materials/BulletDecalStone.mat
+  artifactKey: Guid(a29767879f97b364393df3a772628180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Materials/BulletDecalStone.mat using Guid(a29767879f97b364393df3a772628180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170681dc3b4aa21438293bdc957dba0c') in 0.455504 seconds
+  Import took 0.538196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006432 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Materials/BulletFleshDecal.mat
+  artifactKey: Guid(d771645f9ac10d241b18277409d02a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Materials/BulletFleshDecal.mat using Guid(d771645f9ac10d241b18277409d02a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4eba742d60d2a3d3cda1e2f7dd49b8') in 0.287037 seconds
+  Import took 0.402293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002090 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/BloodStreak.mat
+  artifactKey: Guid(2f03a6f5f76f67c45ae05e606f7ca2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/BloodStreak.mat using Guid(2f03a6f5f76f67c45ae05e606f7ca2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1612040ff6ddfe131eb4d289a5ef7ac') in 1.058914 seconds
+  Import took 1.112523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001931 seconds.
+  path: Assets/Level/FloorMat.mat
+  artifactKey: Guid(adffe117004df2947a53b3e6aaaef81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level/FloorMat.mat using Guid(adffe117004df2947a53b3e6aaaef81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abc79bd876cf932b8840760eab382d9') in 0.614525 seconds
+  Import took 0.677975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002121 seconds.
+  path: Assets/EffectExamples/Shared/Materials/Background.mat
+  artifactKey: Guid(0ae8aab4ae40e7741a636cf6e5136a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Materials/Background.mat using Guid(0ae8aab4ae40e7741a636cf6e5136a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462a1afd8c9cc92fe1eda69216e788e6') in 1.383729 seconds
+  Import took 1.434360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002028 seconds.
+  path: Assets/Ground textures pack/Grass 03/Grass pattern 03.mat
+  artifactKey: Guid(d86005a29439b7541ade84523818db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 03/Grass pattern 03.mat using Guid(d86005a29439b7541ade84523818db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a528efb8f241f2a8e28eba5d346848') in 2.803309 seconds
+  Import took 2.876615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098741 seconds.
+  path: Assets/EffectExamples/Shared/Materials/FleshSurface.mat
+  artifactKey: Guid(72bc6ef93dd24b24a92daaf12577d9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Materials/FleshSurface.mat using Guid(72bc6ef93dd24b24a92daaf12577d9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ccf22cf3b6999c8b2dd7c08d4cd29d3') in 1.606211 seconds
+  Import took 1.680057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201819 seconds.
+  path: Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat
+  artifactKey: Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat using Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d3399ae2c8d2a22ae1291cb1082376') in 1.543041 seconds
+  Import took 1.635977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008348 seconds.
+  path: Assets/EffectExamples/Shared/Fonts/RobotoCondensed-Bold.ttf
+  artifactKey: Guid(fae067962e5934395be31c8aba4a3455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Fonts/RobotoCondensed-Bold.ttf using Guid(fae067962e5934395be31c8aba4a3455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5933f83069e3fe2f036c9d00bdb77ba1') in 0.257707 seconds
+  Import took 0.395346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003268 seconds.
+  path: Assets/Ground textures pack/Grass 04/Grass pattern 04.mat
+  artifactKey: Guid(059cceb0ba6e50741bfe6ec2c755d5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 04/Grass pattern 04.mat using Guid(059cceb0ba6e50741bfe6ec2c755d5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489c18ca9a12b322bb9880f6c84eb907') in 0.610533 seconds
+  Import took 0.661165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002904 seconds.
+  path: Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat
+  artifactKey: Guid(5558b5711d37782468eeee5c2880e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat using Guid(5558b5711d37782468eeee5c2880e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf2dac01bb2f423a6bac56cad4f5ce2') in 0.354514 seconds
+  Import took 0.417831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001833 seconds.
+  path: Assets/Level/Materials/CrackTexture.mat
+  artifactKey: Guid(ce8a4224eb97fab4d8c4ae967d243024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level/Materials/CrackTexture.mat using Guid(ce8a4224eb97fab4d8c4ae967d243024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473abc55fa17a93b24f2fffea17e8c07') in 0.432542 seconds
+  Import took 0.526743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006905 seconds.
+  path: Assets/Power Ups/Materials/EMPMiddle.mat
+  artifactKey: Guid(01eb4fff3e44dc140a6dc1f3918d8869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Power Ups/Materials/EMPMiddle.mat using Guid(01eb4fff3e44dc140a6dc1f3918d8869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c47ea3f88adf9e797ad013053261978') in 0.350847 seconds
+  Import took 0.448615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008885 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de772cc0418e62bf7370151f5c6668cb') in 0.457673 seconds
+  Import took 0.580070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002201 seconds.
+  path: Assets/EffectExamples/Blood/Materials/BloodSplatParticle.mat
+  artifactKey: Guid(3ea2e59d181ffce4e97d5d1d07a22c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Blood/Materials/BloodSplatParticle.mat using Guid(3ea2e59d181ffce4e97d5d1d07a22c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fedca56eef053dbbc59e240a66d831f') in 0.300765 seconds
+  Import took 0.383407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001453 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Materials/DustPuffParticle.mat
+  artifactKey: Guid(1402721190994cd46b64bf7cba78f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Materials/DustPuffParticle.mat using Guid(1402721190994cd46b64bf7cba78f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28dd514930d379e2961b95f91109ea4f') in 0.756034 seconds
+  Import took 0.834763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+  artifactKey: Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat using Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e6fe2320ab71de8fbaab8553203593') in 5.969497 seconds
+  Import took 6.049206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001981 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat
+  artifactKey: Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat using Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bc4a2f24e72fac8ff88ca4b45f4e17') in 0.384050 seconds
+  Import took 0.453968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002600 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/BloodMist.mat
+  artifactKey: Guid(22bd383795fb6f34b93b51a4caa75781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/BloodMist.mat using Guid(22bd383795fb6f34b93b51a4caa75781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc115ccc95f9c0511408dcfb4d090db7') in 0.447020 seconds
+  Import took 0.489561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002087 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Materials/BulletDecalWood.mat
+  artifactKey: Guid(39babc0a61c17df41bca722640cfc289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Materials/BulletDecalWood.mat using Guid(39babc0a61c17df41bca722640cfc289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008204727379faee6d0819c502773810') in 0.335080 seconds
+  Import took 0.411501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002132 seconds.
+  path: Assets/EffectExamples/Blood/Materials/BloodSplashParticle.mat
+  artifactKey: Guid(6f3ee23817d2bd74681209e519f72618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Blood/Materials/BloodSplashParticle.mat using Guid(6f3ee23817d2bd74681209e519f72618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ef0f4e06add1e057d9ebfd76b21a68') in 0.452519 seconds
+  Import took 0.543384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001931 seconds.
+  path: Assets/EffectExamples/Shared/Materials/DarkDefault.mat
+  artifactKey: Guid(2062b6d0a7a2d4f46b4689198aedadd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Materials/DarkDefault.mat using Guid(2062b6d0a7a2d4f46b4689198aedadd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8939a5a7293e19b3934411d6ea8ed6e6') in 0.282093 seconds
+  Import took 0.356456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002754 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/BloodSplat2.mat
+  artifactKey: Guid(fb0f4297b291a034bb4f9a9eada50640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/BloodSplat2.mat using Guid(fb0f4297b291a034bb4f9a9eada50640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901081f77930d4dcfdbdd4089dd68f0d') in 0.307752 seconds
+  Import took 0.412148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001574 seconds.
+  path: Assets/Level/Dest Tall Wall.mat
+  artifactKey: Guid(8ba90ae9f3100104aa7da4b20480e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level/Dest Tall Wall.mat using Guid(8ba90ae9f3100104aa7da4b20480e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7593111da5ede1aada6c8c000b5ef712') in 0.514721 seconds
+  Import took 0.597190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003041 seconds.
+  path: Assets/Ground textures pack/Grass 06/Grass pattern 06.mat
+  artifactKey: Guid(9dccf2dcc78efe741b7931e3bb85beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 06/Grass pattern 06.mat using Guid(9dccf2dcc78efe741b7931e3bb85beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c06f86190bd3030e9b4fb745f90e8a') in 0.668273 seconds
+  Import took 0.780087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002962 seconds.
+  path: Assets/Ground textures pack/Grass 01/Grass pattern 01.mat
+  artifactKey: Guid(2c6f5ab601d22834883d3c7e18f8be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack/Grass 01/Grass pattern 01.mat using Guid(2c6f5ab601d22834883d3c7e18f8be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40931061c74effc89e1e3cb206dacba9') in 0.428778 seconds
+  Import took 0.491913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002181 seconds.
+  path: Assets/EffectExamples/Blood/Materials/BloodPoolParticle.mat
+  artifactKey: Guid(95be4df36eca6eb4b821dcab4acd4a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Blood/Materials/BloodPoolParticle.mat using Guid(95be4df36eca6eb4b821dcab4acd4a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5fb390dde7524f92078dba4ea84084b') in 0.385817 seconds
+  Import took 0.514895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003983 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Materials/BulletDecalMetal.mat
+  artifactKey: Guid(094e76e620df5714eb3946120657e1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Materials/BulletDecalMetal.mat using Guid(094e76e620df5714eb3946120657e1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed76cc41116b7075a4e0b1f49418f10') in 0.444055 seconds
+  Import took 0.508865 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.186159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 6.11 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.87 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 18.600 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.05 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.77 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2709.
+Total: 39.842600 ms (FindLiveObjects: 2.506100 ms CreateObjectMapping: 1.300600 ms MarkObjects: 35.731900 ms  DeleteObjects: 0.292300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.065362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 6.64 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.065 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.34 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 1.28 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2711.
+Total: 25.694400 ms (FindLiveObjects: 2.443500 ms CreateObjectMapping: 2.279100 ms MarkObjects: 20.765100 ms  DeleteObjects: 0.195300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.061721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.92 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.85 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.47 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.77 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2713.
+Total: 22.809500 ms (FindLiveObjects: 2.276500 ms CreateObjectMapping: 1.274200 ms MarkObjects: 19.096400 ms  DeleteObjects: 0.152800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.140570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.34 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.83 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.497 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.83 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.80 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.1 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2715.
+Total: 23.016400 ms (FindLiveObjects: 1.989100 ms CreateObjectMapping: 0.914200 ms MarkObjects: 19.865600 ms  DeleteObjects: 0.235500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.065547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 10.87 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 1.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 32.360 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 18.79 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.97 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.3 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2717.
+Total: 27.432600 ms (FindLiveObjects: 3.951000 ms CreateObjectMapping: 1.514500 ms MarkObjects: 21.589300 ms  DeleteObjects: 0.366200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
