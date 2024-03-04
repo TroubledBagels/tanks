@@ -6,4 +6,4 @@ After my NEA and A-Level were complete, however, I decided I wanted to continue 
 
 Included in this repo is some footage and images of it in actions.
 
-N.B. this was my first Unity/C# project, started at 16, so please forgive the coding style.
+N.B. this was my first Unity/C# project, started at 16, so please forgive the coding style, also note that I am in no way a graphic designer.
